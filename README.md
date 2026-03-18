@@ -1,21 +1,36 @@
 # 📊 Power BI Sales Analysis Project
 
-## 📌 Overview
+## Overview
 
 This project analyzes sales data using Power BI to gain insights into revenue, customer behavior, and performance trends.
 
-## 🛠️ Tools Used
+## Tools Used
 
 * Power BI
 * Excel / CSV
-* SQL (if used)
 
-## 📈 Key Insights
+## 📊 Key Insights
 
-* Top-performing products
-* Sales trends over time
-* Customer segmentation
+- 📈 Total Sales reached **45M**, showing strong overall performance  
+- 🛒 Total Orders are **8K**, indicating steady customer demand  
+- 📦 Total Boxes sold: **4M**
 
+### 📉 Sales Trend
+- Sales show fluctuations with peaks around late 2023 and mid 2024  
+- A sharp drop is observed at the end — needs investigation  
+
+### 🌍 Country-wise Sales
+- UK contributes highest (**24%**)  
+- India and USA also contribute significantly  
+- New Zealand has the lowest share  
+
+### 🏆 Top Products
+- Peanut Butter Cubes generate highest revenue  
+- Premium products dominate top positions  
+
+### 📦 Category Insights
+- Bars category contributes most orders  
+- Other categories have comparatively lower performance  
 ## 📂 Files Included
 
  "C:\Users\yasmi\OneDrive\Desktop\Project\Sales_Project_ColorCoding_PBI.pbix" – Power BI dashboard
@@ -28,8 +43,6 @@ How to Use :
 
 📸 Dashboard Preview
 
-(Add screenshot here)
+![Dashboard](dashboard.png)
 
-## 🔗 Live Dashboard
 
-(Add Power BI link here if published)
